@@ -1,5 +1,6 @@
 <p align="left">
     <img align="left" src="res/README/helloworld.gif" height="41" width="237">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Srul1k&color=blueviolet">
 </ps>
 
 <br>
@@ -20,4 +21,12 @@ Welcome to my GitHub profile:
 <a href="mailto:srul1k@protonmail.com"><img align="left" src="res/README/Social/protonmail.png" height="21" width="25" /></a>
 <a href="https://stackoverflow.com/users/13569819/srul1k"><img align="left" src="res/README/Social/stackoverflow.png" height="22" width="25" /></a>  
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Srul1k&color=blueviolet">
+<br>
+<br>
+
+<details>
+  <summary>🔮 GitHub Stats</summary>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Srul1k&count_private=true&show_icons=true&hide_title=true&bg_color=25,6912cc,904e95&border_color=6912cc&title_color=8686e3&icon_color=a989ad&text_color=cfcfcf&border_radius=15" />
+
+</details>
