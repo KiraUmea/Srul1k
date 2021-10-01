@@ -1,8 +1,7 @@
 <p align="left">
-    <img align="left" src="res/README/helloworld.gif" height="75" width="220">
+    <img align="left" src="res/README/helloworld.gif" height="42" width="241">
 </ps>
 
-<br>
 <br>
 <br>
 
