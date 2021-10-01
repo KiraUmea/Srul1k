@@ -12,11 +12,11 @@ Welcome to my GitHub profile:
 - 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
 - 💞️ I’m looking to collaborate on any interesting open source project
 - 📫 How to reach me:  
-<a href="https://t.me/Srul1k">
+  <a href="https://t.me/Srul1k">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
-<a href="https://discord.gg/2MXtSumMAb">
+  <a href="https://discord.gg/2MXtSumMAb">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&logo=discord&logoColor=white"></a>
-<a href="mailto:srul1k@protonmail.com">
+  <a href="mailto:srul1k@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/13569819/srul1k">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?&logo=stack-overflow&logoColor=white"></a>  
