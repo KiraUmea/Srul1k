@@ -19,7 +19,7 @@ Welcome to my GitHub profile:
   <a href="mailto:srul1k@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/13569819/srul1k">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?&logo=stack-overflow&logoColor=white"></a>  
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?&logo=stack-overflow&logoColor=white"></a>  
 - ⚡ Fun fact: look at the commits created in *2020* 👀
 
 <details>
@@ -61,7 +61,7 @@ Welcome to my GitHub profile:
 <details>
   <summary>🔮 GitHub Stats</summary>
 
-  ![](https://github-readme-stats.vercel.app/api?username=Srul1k&count_private=true&show_icons=true&hide_title=true&bg_color=25,6912cc,904e95&border_color=6912cc&title_color=8686e3&icon_color=a989ad&text_color=cfcfcf)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srul1k&layout=compact&hide_title=true&bg_color=15,904e95,6912cc&border_color=6912cc&title_color=8686e3&icon_color=a989ad&text_color=cfcfcf)
+  ![](https://github-readme-stats.vercel.app/api?username=Srul1k&count_private=true&show_icons=true&hide_title=true&bg_color=25,6912cc,904e95&border_color=6912cc&title_color=f2be9d&icon_color=f2be9d&text_color=cfcfcf)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srul1k&layout=compact&bg_color=15,904e95,6912cc&border_color=6912cc&title_color=f2be9d&text_color=cfcfcf)
 
 </details>
