@@ -65,7 +65,7 @@ Welcome to my GitHub profile:
 <details>
   <summary>🔮 GitHub Stats</summary>
 
-  ![](https://github-readme-stats.vercel.app/api?username=Srul1k&count_private=true&show_icons=true&hide_title=true&bg_color=25,6912cc,904e95&border_color=6912cc&title_color=f2be9d&icon_color=f2be9d&text_color=cfcfcf)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srul1k&layout=compact&bg_color=15,904e95,6912cc&border_color=6912cc&title_color=f2be9d&text_color=cfcfcf)
+  ![](https://github-readme-stats.vercel.app/api?username=Srul1k&count_private=true&show_icons=true&hide_title=true&bg_color=15,0d1b36,8e2491&border_color=6912cc&title_color=f66fee&icon_color=d5acf2&text_color=cfcfcf)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srul1k&layout=compact&bg_color=15,8e2491,0d1b36&border_color=6912cc&title_color=d5acf2&text_color=cfcfcf)
 
 </details>
