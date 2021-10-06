@@ -1,11 +1,6 @@
-<img align="left" src="res/README/helloworld.gif" height="41" width="237">
-<br>
-<img align="left" src="res/README/popcat.gif" height="28" width="28">
-<br>
+<img src="res/README/helloworld.gif" height="41" width="237">  
 
-<br>
-
-**Welcome to my GitHub profile:**
+<img src="res/README/popcat.gif" height="25" width="22"> **Welcome to my GitHub profile:**
 
 - 🔭 I’m currently working on [Northwind](https://github.com/Srul1k/Northwind) 🌀
 - 🌱 I’m currently learning C#, ASP.NET Core  
