@@ -1,11 +1,11 @@
 <img align="left" src="res/README/helloworld.gif" height="41" width="237">
-<img align="right" src="https://komarev.com/ghpvc/?username=Srul1k&color=blueviolet">
-
 <br>
-<img align="right" src="res/README/popcat.gif" height="50" width="50">
+<img align="left" src="res/README/popcat.gif" height="28" width="28">
 <br>
 
-Welcome to my GitHub profile:
+<br>
+
+**Welcome to my GitHub profile:**
 
 - 🔭 I’m currently working on [Northwind](https://github.com/Srul1k/Northwind) 🌀
 - 🌱 I’m currently learning C#, ASP.NET Core  
@@ -69,3 +69,5 @@ Welcome to my GitHub profile:
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srul1k&layout=compact&bg_color=15,8e2491,0d1b36&border_color=6912cc&title_color=f66fee&text_color=cfcfcf)
 
 </details>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Srul1k&color=blueviolet">
