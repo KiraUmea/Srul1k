@@ -48,11 +48,11 @@
   <summary>🕑 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Srul1k/Northwind/pull/12) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-2. 💪 Opened PR [#12](https://github.com/Srul1k/Northwind/pull/12) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-3. ❗️ Opened issue [#886](https://github.com/marcizhu/marcizhu/issues/886) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ❗️ Opened issue [#16952](https://github.com/timburgan/timburgan/issues/16952) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#16949](https://github.com/timburgan/timburgan/issues/16949) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 💪 Opened PR [#1](https://github.com/Srul1k/priority-changer/pull/1) in [Srul1k/priority-changer](https://github.com/Srul1k/priority-changer)
+2. 🎉 Merged PR [#12](https://github.com/Srul1k/Northwind/pull/12) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+3. 💪 Opened PR [#12](https://github.com/Srul1k/Northwind/pull/12) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+4. ❗️ Opened issue [#886](https://github.com/marcizhu/marcizhu/issues/886) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. ❗️ Opened issue [#16952](https://github.com/timburgan/timburgan/issues/16952) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
