@@ -48,11 +48,11 @@
   <summary>🕑 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Srul1k/Northwind/pull/13) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-2. 💪 Opened PR [#13](https://github.com/Srul1k/Northwind/pull/13) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-3. ❗️ Opened issue [#931](https://github.com/marcizhu/marcizhu/issues/931) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. 🎉 Merged PR [#3](https://github.com/Srul1k/priority-changer/pull/3) in [Srul1k/priority-changer](https://github.com/Srul1k/priority-changer)
-5. 💪 Opened PR [#3](https://github.com/Srul1k/priority-changer/pull/3) in [Srul1k/priority-changer](https://github.com/Srul1k/priority-changer)
+1. ❗️ Opened issue [#1031](https://github.com/marcizhu/marcizhu/issues/1031) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. 🎉 Merged PR [#13](https://github.com/Srul1k/Northwind/pull/13) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+3. 💪 Opened PR [#13](https://github.com/Srul1k/Northwind/pull/13) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+4. ❗️ Opened issue [#931](https://github.com/marcizhu/marcizhu/issues/931) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. 🎉 Merged PR [#3](https://github.com/Srul1k/priority-changer/pull/3) in [Srul1k/priority-changer](https://github.com/Srul1k/priority-changer)
 <!--END_SECTION:activity-->
 
 </details>
