@@ -1,6 +1,6 @@
 <img src="res/README/helloworld.gif" height="41" width="237">  
 
-<img src="res/README/popcat.gif" height="25" width="22"> **Welcome to my GitHub profile:**
+**Welcome to my GitHub profile:**
 
 - 🔭 I’m currently working on [Northwind](https://github.com/Srul1k/Northwind) 🌀
 - 🌱 I’m currently learning C#, ASP.NET Core  
@@ -46,6 +46,8 @@
 
 <details>
   <summary>🕑 Recent Activity</summary>
+
+<img align="right" src="res/README/popcat.gif">
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1031](https://github.com/marcizhu/marcizhu/issues/1031) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
