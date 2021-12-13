@@ -50,11 +50,11 @@
 <img align="right" src="res/README/popcat.gif">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Srul1k/Northwind/pull/15) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-2. ❗️ Opened issue [#1159](https://github.com/marcizhu/marcizhu/issues/1159) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗️ Opened issue [#1156](https://github.com/marcizhu/marcizhu/issues/1156) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. 💪 Opened PR [#15](https://github.com/Srul1k/Northwind/pull/15) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-5. 🎉 Merged PR [#14](https://github.com/Srul1k/Northwind/pull/14) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+1. ❗️ Opened issue [#1181](https://github.com/marcizhu/marcizhu/issues/1181) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. 🎉 Merged PR [#15](https://github.com/Srul1k/Northwind/pull/15) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+3. ❗️ Opened issue [#1159](https://github.com/marcizhu/marcizhu/issues/1159) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. ❗️ Opened issue [#1156](https://github.com/marcizhu/marcizhu/issues/1156) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. 💪 Opened PR [#15](https://github.com/Srul1k/Northwind/pull/15) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
 <!--END_SECTION:activity-->
 
 </details>
