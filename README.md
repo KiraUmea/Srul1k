@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub profile:**
 
-- 🔭 I’m currently working on [Northwind](https://github.com/Srul1k/Northwind) 🌀
+- 🔭 I’m currently working on [x-minus-bot](https://github.com/Srul1k/x-minus-bot) 🎵
 - 🌱 I’m currently learning C#, ASP.NET Core  
 - 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
 - 💞️ I’m looking to collaborate on any interesting open source project
@@ -46,8 +46,6 @@
 
 <details>
   <summary>🕑 Recent Activity</summary>
-
-<img align="right" src="res/README/popcat.gif">
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/Srul1k/cooming-soon/issues/1) in [Srul1k/cooming-soon](https://github.com/Srul1k/cooming-soon)
