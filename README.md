@@ -48,11 +48,11 @@
   <summary>🕑 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Srul1k/Northwind/pull/17) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-2. 💪 Opened PR [#17](https://github.com/Srul1k/Northwind/pull/17) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-3. ❗️ Opened issue [#1](https://github.com/Srul1k/cooming-soon/issues/1) in [Srul1k/cooming-soon](https://github.com/Srul1k/cooming-soon)
-4. 🎉 Merged PR [#16](https://github.com/Srul1k/Northwind/pull/16) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-5. 💪 Opened PR [#16](https://github.com/Srul1k/Northwind/pull/16) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+1. ❗️ Opened issue [#1469](https://github.com/marcizhu/marcizhu/issues/1469) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. 🎉 Merged PR [#17](https://github.com/Srul1k/Northwind/pull/17) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+3. 💪 Opened PR [#17](https://github.com/Srul1k/Northwind/pull/17) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+4. ❗️ Opened issue [#1](https://github.com/Srul1k/cooming-soon/issues/1) in [Srul1k/cooming-soon](https://github.com/Srul1k/cooming-soon)
+5. 🎉 Merged PR [#16](https://github.com/Srul1k/Northwind/pull/16) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
 <!--END_SECTION:activity-->
 
 </details>
