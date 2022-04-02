@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
   <a href="https://discord.gg/2MXtSumMAb">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&logo=discord&logoColor=white"></a>
-  <a href="mailto:srul1k@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/13569819/srul1k">
-    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?&logo=stack-overflow&logoColor=white"></a>  
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?&logo=stack-overflow&logoColor=white"></a>
+  <a href="mailto:srul1k@keemail.me">
+    <img src="https://img.shields.io/badge/Tutanota-840010?&logo=Tutanota&logoColor=white"></a>  
 - ⚡ Fun fact: look at the commits created in *2020* 👀
 
 <details>
