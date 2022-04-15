@@ -22,27 +22,8 @@
 <details>
   <summary>🛠️ Languages and Tools</summary>
 
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
-
-  *I also have a little experience with:*  
-
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?logo=grafana&logoColor=orange&labelColor=F2F4F9)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-000000?logo=prometheus&labelColor=000000)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
-  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white)
-  ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?logo=azure-functions&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?logo=githubactions&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+  | ***Main stack:***<br>![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) | *I also have a little experience with:*<br>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?logo=grafana&logoColor=orange&labelColor=F2F4F9)![Prometheus](https://img.shields.io/badge/Prometheus-000000?logo=prometheus&labelColor=000000)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white)![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?logo=azure-functions&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?logo=githubactions&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) |
+  | ------------- | ------------- |
 
 </details>
 
