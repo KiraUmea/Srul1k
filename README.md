@@ -2,6 +2,8 @@
 
 **Welcome to my GitHub profile:**
 
+<img align="right" src="res/README/octocat-anime.gif" width="150">
+
 - 🔭 I’m currently working on [x-minus-bot](https://github.com/Srul1k/x-minus-bot) 🎵
 - 🌱 I’m currently learning C#, ASP.NET Core  
 - 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
