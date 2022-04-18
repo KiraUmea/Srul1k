@@ -30,7 +30,7 @@
 <details>
   <summary>🕑 Recent Activity</summary>
 
-<img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srul1k&custom_title=Activity%20Graph&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="550" height="200">
+<img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491">
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1567](https://github.com/marcizhu/marcizhu/issues/1567) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
