@@ -33,11 +33,11 @@
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="618" height="220">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1567](https://github.com/marcizhu/marcizhu/issues/1567) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. ❗️ Opened issue [#1503](https://github.com/marcizhu/marcizhu/issues/1503) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗️ Opened issue [#1469](https://github.com/marcizhu/marcizhu/issues/1469) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. 🎉 Merged PR [#17](https://github.com/Srul1k/Northwind/pull/17) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
-5. 💪 Opened PR [#17](https://github.com/Srul1k/Northwind/pull/17) in [Srul1k/Northwind](https://github.com/Srul1k/Northwind)
+1. 🎉 Merged PR [#3](https://github.com/Srul1k/x-minus-bot/pull/3) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
+2. 💪 Opened PR [#3](https://github.com/Srul1k/x-minus-bot/pull/3) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
+3. ❗️ Opened issue [#2](https://github.com/Srul1k/x-minus-bot/issues/2) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
+4. ❗️ Opened issue [#1567](https://github.com/marcizhu/marcizhu/issues/1567) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. ❗️ Opened issue [#1503](https://github.com/marcizhu/marcizhu/issues/1503) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
 <!--END_SECTION:activity-->
 
 </details>
