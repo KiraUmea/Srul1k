@@ -33,11 +33,11 @@
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="618" height="220">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Srul1k/x-minus-bot/pull/5) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
-2. 💪 Opened PR [#5](https://github.com/Srul1k/x-minus-bot/pull/5) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
-3. 💪 Opened PR [#4](https://github.com/Srul1k/x-minus-bot/pull/4) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
-4. 🎉 Merged PR [#3](https://github.com/Srul1k/x-minus-bot/pull/3) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
-5. 💪 Opened PR [#3](https://github.com/Srul1k/x-minus-bot/pull/3) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
+1. 🗣 Commented on [#4](https://github.com/Srul1k/x-bot/issues/4) in [Srul1k/x-bot](https://github.com/Srul1k/x-bot)
+2. 🎉 Merged PR [#5](https://github.com/Srul1k/x-minus-bot/pull/5) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
+3. 💪 Opened PR [#5](https://github.com/Srul1k/x-minus-bot/pull/5) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
+4. 💪 Opened PR [#4](https://github.com/Srul1k/x-minus-bot/pull/4) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
+5. 🎉 Merged PR [#3](https://github.com/Srul1k/x-minus-bot/pull/3) in [Srul1k/x-minus-bot](https://github.com/Srul1k/x-minus-bot)
 <!--END_SECTION:activity-->
 
 </details>
