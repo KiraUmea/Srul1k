@@ -4,7 +4,7 @@
 
 <img align="right" src="res/README/octocat-anime.gif" width="150">
 
-- 🔭 I’m currently working on [x-bot](https://github.com/Srul1k/x-bot) 🍆
+- 🔭 I’m currently working for [C.U.M.](https://github.com/cum-foundations)💦
 - 🌱 I’m currently learning C#, ASP.NET Core  
 - 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
 - 💞️ I’m looking to collaborate on any interesting open source project
