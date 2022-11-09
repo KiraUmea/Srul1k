@@ -31,10 +31,10 @@
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="618" height="220">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cum-foundations/TDPDNE/pull/1) in [cum-foundations/TDPDNE](https://github.com/cum-foundations/TDPDNE)
-2. 💪 Opened PR [#1](https://github.com/beezeetee/TDPDNE/pull/1) in [beezeetee/TDPDNE](https://github.com/beezeetee/TDPDNE)
-3. ❗️ Opened issue [#10](https://github.com/Srul1k/x-bot/issues/10) in [Srul1k/x-bot](https://github.com/Srul1k/x-bot)
-4. ❗️ Opened issue [#9](https://github.com/Srul1k/x-bot/issues/9) in [Srul1k/x-bot](https://github.com/Srul1k/x-bot)
+1. 🎉 Merged PR [#2](https://github.com/Srul1k/net-automation/pull/2) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
+2. 💪 Opened PR [#2](https://github.com/Srul1k/net-automation/pull/2) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
+3. 🎉 Merged PR [#1](https://github.com/Srul1k/net-automation/pull/1) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
+4. 💪 Opened PR [#1](https://github.com/Srul1k/net-automation/pull/1) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
 5. ❗️ Opened issue [#8](https://github.com/Srul1k/x-bot/issues/8) in [Srul1k/x-bot](https://github.com/Srul1k/x-bot)
 <!--END_SECTION:activity-->
 
