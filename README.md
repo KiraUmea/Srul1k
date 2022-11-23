@@ -31,11 +31,11 @@
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="618" height="220">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Srul1k/net-automation/pull/5) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
-2. 🎉 Merged PR [#4](https://github.com/Srul1k/net-automation/pull/4) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
-3. 💪 Opened PR [#4](https://github.com/Srul1k/net-automation/pull/4) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
-4. 🎉 Merged PR [#3](https://github.com/Srul1k/net-automation/pull/3) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
-5. ❌ Closed PR [#1](https://github.com/Srul1k/Srul1k/pull/1) in [Srul1k/Srul1k](https://github.com/Srul1k/Srul1k)
+1. 🎉 Merged PR [#5](https://github.com/Srul1k/net-automation/pull/5) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
+2. 💪 Opened PR [#5](https://github.com/Srul1k/net-automation/pull/5) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
+3. 🎉 Merged PR [#4](https://github.com/Srul1k/net-automation/pull/4) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
+4. 💪 Opened PR [#4](https://github.com/Srul1k/net-automation/pull/4) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
+5. 🎉 Merged PR [#3](https://github.com/Srul1k/net-automation/pull/3) in [Srul1k/net-automation](https://github.com/Srul1k/net-automation)
 <!--END_SECTION:activity-->
 
 </details>
